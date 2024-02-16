@@ -1,0 +1,137 @@
+<DeliveryOutput>
+    <RequestInfo>
+        <Tenant>rsdfg</Tenant>
+        <Client>rsdfg</Client>
+        <TeamSiteName>rsdfg</TeamSiteName>
+        <IpAddress>20.222.22.222</IpAddress>
+        <Timestamp>9/25/2023 11:43:45 AM</Timestamp>
+        <User Id="asdf-adsf23-84f6-5ea8-asdf" Name="asdf" Email="adsf@adsf.com"/>
+        <ContextInfo>
+            <ExternalSystemTypes>asdf asdf</ExternalSystemTypes>
+            <ExternalContextId/>
+            <ExternalContextType/>
+            <ExternalContextName/>
+        </ContextInfo>
+    </RequestInfo>
+    <Files PackageFileName="asdf-2e84-asdf-8659-asdf">
+        <FileInfo>
+            <FileName>4Q-asdf asdf asdf asdf asdf (529-A Share AFCTD) 4036868.pdf</FileName>
+            <Format>PDF</Format>
+            <Size>541198</Size>
+            <RequestId>asdf-06f4-asdf-98c9-asdf</RequestId>
+            <ContentInfo>
+                <Id>asdf-0ee6-481a-b587-asdf</Id>
+                <ContentTypeId>3</ContentTypeId>
+                <Type>StaticContent</Type>
+                <Name>4Q-2022 asdf asdf Fund asdf asdf (529-A asdf asdf) 23423423</Name>
+                <Description/>
+                <IsPersonalContent>False</IsPersonalContent>
+                <IsCollaborationContent>False</IsCollaborationContent>
+                <CreatedBy>asdf</CreatedBy>
+                <CreatedOn>6/2/2020 3:10:41 AM</CreatedOn>
+                <LastUpdate>2/6/2023 10:38:23 PM</LastUpdate>
+                <VersionId>asdf-94a9-asdf-bd05-asdf</VersionId>
+                <Version>12.0</Version>
+                <VersionCreatedOn>2/6/2023 10:38:23 PM</VersionCreatedOn>
+                <PromotedBy>asdf</PromotedBy>
+                <ExternalURL/>
+                <ContentExpiredInfo/>
+                <TrackingFields/>
+                <ContentProperties>
+                    <CustomProperty Name="Deliverable Title" PropertyType="string">4Q-2022 asdf asdf asdf Fact asdf
+                        (529-A asdf asdf) 4036868
+                    </CustomProperty>
+                    <CustomProperty Name="Deliverable Type" PropertyType="string">asdf asdf asdf asdf</CustomProperty>
+                    <CustomProperty Name="Line of Business" PropertyType="string">asdf</CustomProperty>
+                    <CustomProperty Name="Content Purpose" PropertyType="multi-value">asdf</CustomProperty>
+                    <CustomProperty Name="Fund-Mandate" PropertyType="multi-value">asdf asdf</CustomProperty>
+                    <CustomProperty Name="Share Class - Sales" PropertyType="multi-value">529-A</CustomProperty>
+                    <CustomProperty Name="Date of First Use" PropertyType="date">02/06/2023</CustomProperty>
+                    <CustomProperty Name="Legally Approved For" PropertyType="string">asdf asdf</CustomProperty>
+                    <CustomProperty Name="Target Audiences" PropertyType="multi-value">asdf</CustomProperty>
+                    <CustomProperty Name="Frequency of Use" PropertyType="string">asdf</CustomProperty>
+                    <CustomProperty Name="Owner" PropertyType="string">asdf asdf</CustomProperty>
+                    <CustomProperty Name="QSU Required" PropertyType="string">No</CustomProperty>
+                    <CustomProperty Name="Piece Contact" PropertyType="string">DVG</CustomProperty>
+                    <CustomProperty Name="Deliverable Keywords" PropertyType="string">
+                        CA5ASS|quarterly;ctdfs;ctdfact;ctddef;ctd asdf asdf;ctd fact;ctd;asdf asdf asdf asdf;asdf asdf
+                        asd;asdf asdf asdf;asdf;asdf;asdf asdf asdf;AFCTD;529-a
+                    </CustomProperty>
+                    <CustomProperty Name="Ready to Deploy" PropertyType="string">Yes</CustomProperty>
+                    <CustomProperty Name="Workfront ID" PropertyType="string">233223232323</CustomProperty>
+                    <CustomProperty Name="Document Filename" PropertyType="string">23423444_1</CustomProperty>
+                    <CustomProperty Name="Metadata Sync Delay" PropertyType="string">No</CustomProperty>
+                    <CustomProperty Name="Document Source" PropertyType="string">asdfa</CustomProperty>
+                </ContentProperties>
+            </ContentInfo>
+            <ContextInfo>
+                <ExternalSystemTypes>asdf asdf</ExternalSystemTypes>
+                <ExternalContextId/>
+                <ExternalContextType/>
+                <ExternalContextName/>
+            </ContextInfo>
+        </FileInfo>
+        <FileInfo>
+            <FileName>4Q-asdf asdf asdf asdf asdf (529-A Share AFCTD) 4036868.pdf</FileName>
+            <Format>PDF</Format>
+            <Size>541198</Size>
+            <RequestId>asdf-06f4-asdf-98c9-asdf</RequestId>
+            <ContentInfo>
+                <Id>asdf-0ee6-481a-b587-asdf</Id>
+                <ContentTypeId>3</ContentTypeId>
+                <Type>StaticContent</Type>
+                <Name>4Q-2022 asdf asdf Fund asdf asdf (529-A asdf asdf) 23423423</Name>
+                <Description/>
+                <IsPersonalContent>False</IsPersonalContent>
+                <IsCollaborationContent>False</IsCollaborationContent>
+                <CreatedBy>asdf</CreatedBy>
+                <CreatedOn>6/2/2020 3:10:41 AM</CreatedOn>
+                <LastUpdate>2/6/2023 10:38:23 PM</LastUpdate>
+                <VersionId>asdf-94a9-asdf-bd05-asdf</VersionId>
+                <Version>12.0</Version>
+                <VersionCreatedOn>2/6/2023 10:38:23 PM</VersionCreatedOn>
+                <PromotedBy>asdf</PromotedBy>
+                <ExternalURL/>
+                <ContentExpiredInfo/>
+                <TrackingFields/>
+                <ContentProperties>
+                    <CustomProperty Name="Deliverable Title" PropertyType="string">4Q-2022 asdf asdf asdf Fact asdf
+                        (529-A asdf asdf) 4036868
+                    </CustomProperty>
+                    <CustomProperty Name="Deliverable Type" PropertyType="string">asdf asdf asdf asdf</CustomProperty>
+                    <CustomProperty Name="Line of Business" PropertyType="string">asdf</CustomProperty>
+                    <CustomProperty Name="Content Purpose" PropertyType="multi-value">asdf</CustomProperty>
+                    <CustomProperty Name="Fund-Mandate" PropertyType="multi-value">asdf asdf</CustomProperty>
+                    <CustomProperty Name="Share Class - Sales" PropertyType="multi-value">529-A</CustomProperty>
+                    <CustomProperty Name="Date of First Use" PropertyType="date">02/06/2023</CustomProperty>
+                    <CustomProperty Name="Legally Approved For" PropertyType="string">asdf asdf</CustomProperty>
+                    <CustomProperty Name="Target Audiences" PropertyType="multi-value">asdf</CustomProperty>
+                    <CustomProperty Name="Frequency of Use" PropertyType="string">asdf</CustomProperty>
+                    <CustomProperty Name="Owner" PropertyType="string">asdf asdf</CustomProperty>
+                    <CustomProperty Name="QSU Required" PropertyType="string">No</CustomProperty>
+                    <CustomProperty Name="Piece Contact" PropertyType="string">DVG</CustomProperty>
+                    <CustomProperty Name="Deliverable Keywords" PropertyType="string">
+                        CA5ASS|quarterly;ctdfs;ctdfact;ctddef;ctd asdf asdf;ctd fact;ctd;asdf asdf asdf asdf;asdf asdf
+                        asd;asdf asdf asdf;asdf;asdf;asdf asdf asdf;AFCTD;529-a
+                    </CustomProperty>
+                    <CustomProperty Name="Ready to Deploy" PropertyType="string">Yes</CustomProperty>
+                    <CustomProperty Name="Workfront ID" PropertyType="string">233223232323</CustomProperty>
+                    <CustomProperty Name="Document Filename" PropertyType="string">23423444_1</CustomProperty>
+                    <CustomProperty Name="Metadata Sync Delay" PropertyType="string">No</CustomProperty>
+                    <CustomProperty Name="Document Source" PropertyType="string">asdfa</CustomProperty>
+                </ContentProperties>
+            </ContentInfo>
+            <ContextInfo>
+                <ExternalSystemTypes>asdf asdf</ExternalSystemTypes>
+                <ExternalContextId/>
+                <ExternalContextType/>
+                <ExternalContextName/>
+            </ContextInfo>
+        </FileInfo>
+
+    </Files>
+    <DeliveryOption Id="2f9c9636-7f09-03d9-738c-87c8e4b891a5" Name="Bound Archive 2">
+        <DeliveryFields/>
+    </DeliveryOption>
+    <DeliveryDetailExtra/>
+</DeliveryOutput>
